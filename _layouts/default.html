@@ -68,10 +68,10 @@
     <div id="page">
     
       <ul class="breadcrumb">
-        <li><a href="#"><i class="icon-home"></i>Home</a> </li>
+        <li><a href="/">Startseite</a></li>
         {% assign crumbs = page.url | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
-        {% for crumb in crumbs offset:2 %}
+        {% for crumb in crumbs offset:1 %}
           {% unless crumb == 'index.html' %}
           <li><span class="divider">&#187;</span> {{ crumb | remove: '.html' }} </li>
           {% endunless %}
