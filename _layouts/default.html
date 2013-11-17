@@ -74,10 +74,11 @@
         {% capture path %}{{ path | remove:'////' }}{% endcapture %}
         {% assign crumbs = path | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
+        {% capture crumbstotal %}{{ crumbstotal | minus:1 }}{% endcapture %}
         {{ path }}
-        {% for crumb in crumbs %}
+        {% for crumb in crumbs limit:crumbstotal %}
           {% assign dotdotslash = '' %}
-          {% unless crumb == 'index.html' %}
+          {% unless crumb == 'index.html///' %}
           <li><span class="divider">&#187;</span> <a href="{{ dotdotslash }}">{{ crumb }}</a> </li>
           {% endunless %}
         {% endfor %}
