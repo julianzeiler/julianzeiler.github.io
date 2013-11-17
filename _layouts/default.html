@@ -74,12 +74,8 @@
         {% assign crumbscount = crumbstotal | minus: 1 %}
         {% for crumb in crumbs offset:1 %}
           {% assign dotdotslash = '' %}
-          
           {{ crumbscount }}
-          {% if crumbscount > 0 %}
           <li><span class="divider">&#187;</span> <a href="{{ dotdotslash }}">{{ crumb }}</a> </li>
-          {% endif %}
-          {% capture crumbscount %}{{ crumbscount | minus: 1 }}{% endcapture %}
         {% endfor %}
       </ul>
 
