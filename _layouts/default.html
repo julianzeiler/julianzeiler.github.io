@@ -75,7 +75,6 @@
         {% assign crumbs = path | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
         {% capture crumbstotal %}{{ crumbstotal | minus:1 }}{% endcapture %}
-        {{ path }}
         {% for crumb in crumbs limit:crumbstotal %}
           {% assign dotdotslash = '' %}
           {% unless crumb == 'index.html///' %}
