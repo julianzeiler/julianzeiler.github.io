@@ -75,7 +75,7 @@
         {% for crumb in crumbs offset:1 %}
           {{ crumbscount }}
           {% if crumbscount > 0 %}
-          <li><span class="divider">&#187;</span> <a href="{% {{ '../' | times: crumbscount }}">{{ crumb }}</a> </li>
+          <li><span class="divider">&#187;</span> <a href="{{ '../' | times: crumbscount }}">{{ crumb }}</a> </li>
           {% endif %}
           {% capture crumbscount %}{{ crumbscount | minus: 1 }}{% endcapture %}
         {% endfor %}
