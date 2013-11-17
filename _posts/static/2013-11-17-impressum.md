@@ -12,7 +12,7 @@ Relaisstr. 98
 Deutschland / Germany
 
 Sie können mich unter meiner E-Mail Adresse:
-[julian@zeiler.eu](julian@zeiler.eu) erreichen.
+<julian@zeiler.eu> erreichen.
 
 You can contact me via email at:
-[julian@zeiler.eu](julian@zeiler.eu).
+<julian@zeiler.eu>.
