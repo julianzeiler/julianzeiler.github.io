@@ -1,5 +1,3 @@
-Detlef und Julian
-
 Herzlich Willkommen auf den Seiten von Detlef und Julian Zeiler.
 
 Hier finden Sie einige Artikel die mein Vater Detlef und ich im Laufe der Zeit geschrieben haben.
