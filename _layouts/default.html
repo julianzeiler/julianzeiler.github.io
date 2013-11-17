@@ -76,6 +76,7 @@
           {% assign dotdotslash = '' %}
           {{ crumbscount }}
           <li><span class="divider">&#187;</span> <a href="{{ dotdotslash }}">{{ crumb }}</a> </li>
+          {% capture crumbscount %}{{ crumbscount | minus: 1 }}{% endcapture %}
         {% endfor %}
       </ul>
 
