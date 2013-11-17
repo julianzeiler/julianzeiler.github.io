@@ -66,7 +66,7 @@
 
     <!-- #page: holds all page content, as well as footer -->
     <div id="page">
-    
+      {% unless page.url == '/index.html' %}
       <ul class="breadcrumb">
         <li><a href="/">startseite</a></li>
         {% assign path = page.url | remove_first:'/' %}
@@ -86,6 +86,7 @@
           {% endunless %}
         {% endfor %}
       </ul>
+      {% endunless %}
 
       <h2>{{ page.title }}</h2>
     
