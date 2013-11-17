@@ -73,7 +73,7 @@
         {% assign crumbstotal = crumbs | size %}
         {% assign crumbscount = crumbstotal | minus: 1 %}
         {% for crumb in crumbs offset:1 %}
-          {% assign dotdotslash = '../' | times: crumbscount %}
+          {% assign dotdotslash = '../' | times: 1 %}
           {{ crumbscount }}
           {% if crumbscount > 0 %}
           <li><span class="divider">&#187;</span> <a href="{{ dotdotslash }}">{{ crumb }}</a> </li>
