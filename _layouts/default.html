@@ -70,11 +70,13 @@
       <ul class="breadcrumb">
         <li><a href="/">startseite</a></li>
         {% assign path = page.url | remove_first:'/' %}
-        {{ path }}
-        {% assign crumbs = path | split: '/' %}
+        {% assign size = path | size %}
+        {% capture size %}{{ size | minus:1 }}{% endcapture %}
+        {% assign newpath = size | truncate: size %}
+        {{ newpath }}
+        {% assign crumbs = newpath | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
-        {% assign crumbscount = crumbstotal | minus: 2 %}
-        {% for crumb in crumbs limit:crumbscount %}
+        {% for crumb in crumbs %}
           {% assign dotdotslash = '' %}
           <li><span class="divider">&#187;</span> <a href="{{ dotdotslash }}">{{ crumb }}</a> </li>
         {% endfor %}
