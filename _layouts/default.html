@@ -74,8 +74,9 @@
         {% assign crumbscount = crumbstotal | minus: 1 %}
         {% for crumb in crumbs offset:1 %}
           {% assign dotdotslash = '' %}
-          rindex = {{ forloop.rindex }}
+          {% unless forloop.rindex == 1 }}
           <li><span class="divider">&#187;</span> <a href="{{ dotdotslash }}">{{ crumb }}</a> </li>
+          {% endunless %}
           {% capture crumbscount %}{{ crumbscount | minus: 1 }}{% endcapture %}
         {% endfor %}
       </ul>
