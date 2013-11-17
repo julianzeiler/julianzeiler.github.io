@@ -12,8 +12,8 @@ Relaisstr. 98
 68219 Mannheim  
 Deutschland / Germany
 
-Sie können mich unter meiner E-Mail Adresse:
+Sie können mich unter meiner E-Mail Adresse:  
 <julian@zeiler.eu> erreichen.
 
-You can contact me via email at:
+You can contact me via email at:  
 <julian@zeiler.eu>.
