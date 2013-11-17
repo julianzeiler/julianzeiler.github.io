@@ -76,7 +76,7 @@
         {% assign crumbstotal = crumbs | size %}
         {% capture crumbstotal %}{{ crumbstotal | minus:1 }}{% endcapture %}
         {% assign dotdotslash = '' %}
-        {% for i in (0..crumbstotal) %}
+        {% for i in (1..crumbstotal) %}
           {% capture dotdotslash %}{{ dotdotslash | append:'../' }}{% endcapture %}
         {% enfor %}
         {% for crumb in crumbs limit:crumbstotal %}
