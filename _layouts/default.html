@@ -73,6 +73,7 @@
         {% assign crumbstotal = crumbs | size %}
         {% assign crumbscount = crumbstotal | minus: 3 %}
         {% for crumb in crumbs offset:1 %}
+          {{ crumbscount }}
           {% unless crumb == 'index.html' or crumbscount == 0%}
           <li><span class="divider">&#187;</span> <a href="{% for i in (0..crumbscount) %}../{% endfor %}#">{{ crumb | remove: '.html' }}</a> </li>
           {% endunless %}
