@@ -71,7 +71,7 @@
         <li><a href="/">startseite</a></li>
         {% assign crumbs = page.url | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
-        {% assign crumbscount = crumbstotal | minus: 1 %}
+        {% assign crumbscount = crumbstotal | minus: 3 %}
         {% for crumb in crumbs offset:1 %}
           {% unless crumb == 'index.html' %}
           <li><span class="divider">&#187;</span> <a href="{% for i in (0..crumbscount) %}../{% endfor %}#">{{ crumb | remove: '.html' }}</a> </li>
