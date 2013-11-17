@@ -5,11 +5,11 @@ title: Impressum
 permalink: contact/
 ---
 
-## Adresse / Address
+### Adresse / Address
 
-Julian Zeiler
-Relaisstr. 98
-68219 Mannheim
+**Julian Zeiler**  
+Relaisstr. 98  
+68219 Mannheim  
 Deutschland / Germany
 
 Sie können mich unter meiner E-Mail Adresse:
