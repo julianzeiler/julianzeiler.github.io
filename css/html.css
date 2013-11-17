@@ -88,7 +88,7 @@ ol span {
 ul {
   margin: 10px 30px;
   padding: 0 30px 0 5px;
-  list-style: none;
+  list-style: circle;
 }
 
 ul li {
