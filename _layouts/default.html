@@ -70,7 +70,7 @@
       {% if page.url != '/index.html'%}
         {{ content }}
       {% else %}
-        {% capture startseite %}{% include startseite.html %}{% endcapture %}
+        {% capture startseite %}{% include startseite.markdown %}{% endcapture %}
         {{ startseite | markdownify }}
       {% endif %}
 
