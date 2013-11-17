@@ -9,7 +9,6 @@ Herzlich Willkommen auf meiner Homepage.
 
 ![JulianZeiler.jpg](/img/JulianZeiler.jpg)
 
-
 Da ich gelernter IT-Systemkaufmann bin findet sich auf diesen Seiten vieles zum Thema Computer, Internet und Informatik.
 
 Zu meinen Hobbies zählen neben dem Programmieren und Administrieren von Servern (ja das ist ein Hobby) auch der Sport (Fußball, Basketball) und das Klavierspielen. Damit will ich hier aber niemanden langweilen oder gar nerven. Wobei ... so ein "Für Elise" im Hintergrund auf diesen Seiten? ... Nein!
