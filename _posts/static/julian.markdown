@@ -2,7 +2,9 @@
 layout: default
 title: Julian Zeiler
 permalink: julian/
+published: true
 ---
+
 Herzlich Willkommen auf meiner Homepage.
 
 Da ich gelernter IT-Systemkaufmann bin findet sich auf diesen Seiten vieles zum Thema Computer, Internet und Informatik.
