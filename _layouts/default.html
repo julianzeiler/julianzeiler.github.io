@@ -67,6 +67,8 @@
     <!-- #page: holds all page content, as well as footer -->
     <div id="page">
     
+      <h2>{{ page.title }}</h2>
+    
       {% if page.url != '/index.html'%}
         {{ content }}
       {% else %}
