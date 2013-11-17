@@ -70,9 +70,9 @@
       <ul class="breadcrumb">
         <li><a href="/">startseite</a></li>
         {% assign path = page.url | remove_first:'/' %}
-        {% assign size = path | size %}
-        {% capture size %}{{ size | minus:1 }}{% endcapture %}
-        {% assign newpath = size | truncate: size %}
+        {% assign pathsize = path | size %}
+        {% capture pathsize %}{{ pathsize | minus:1 }}{% endcapture %}
+        {% assign newpath = path | truncate: pathsize %}
         {{ newpath }}
         {% assign crumbs = newpath | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
