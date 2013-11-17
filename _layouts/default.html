@@ -72,12 +72,9 @@
         {% assign crumbs = page.url | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
         {% assign crumbscount = crumbstotal | minus: 1 %}
-        {% for crumb in crumbs offset:1 %}
+        {% for crumb in crumbs limit:crumbscount offset:1 %}
           {% assign dotdotslash = '' %}
-          {% unless forloop.rindex == 1 }}
           <li><span class="divider">&#187;</span> <a href="{{ dotdotslash }}">{{ crumb }}</a> </li>
-          {% endunless %}
-          {% capture crumbscount %}{{ crumbscount | minus: 1 }}{% endcapture %}
         {% endfor %}
       </ul>
 
