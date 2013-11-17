@@ -2,6 +2,7 @@
 layout: default
 published: true
 title: Julian Zeiler
+permalink: julian/
 ---
 
 Herzlich Willkommen auf meiner Homepage.
