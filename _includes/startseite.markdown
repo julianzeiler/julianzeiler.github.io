@@ -4,13 +4,13 @@ Hier finden Sie einige Artikel die mein Vater Detlef und ich im Laufe der Zeit g
 
 ## Besondere Artikel:
 
-- Neuenheim wird Stadtteil von Heidelberg
+- Neuenheim wird Stadtteil von Heidelberg  
 Detlef Zeiler im Gespräch mit Otto Jäger und Ludwig Merz
-- Auswirkungen von Ideologien der Open Source Lizenzen
+- Auswirkungen von Ideologien der Open Source Lizenzen  
 Dieser Artikel stellt die verschiedenen Open Source Lizenzen (GPL, LGPL, BSD) gegenüber und bespricht deren Grundaussagen.
-- "Gerüchte - Rumores"
+- "Gerüchte - Rumores"  
 Drehbuch zu einem Kurzfilm aus der Deutschen Schule in Teneriffa
-- Hexenglauben und Hexenprozesse
+- Hexenglauben und Hexenprozesse  
 Die Ursprünge der Hexenverfolgung und deren Besonderheiten in Heidelberg.
-- Die Insel Providencia
+- Die Insel Providencia  
 Gespräche mit Virginia Archibold über die Geschichte der traumhaften Insel in der Karibik.
