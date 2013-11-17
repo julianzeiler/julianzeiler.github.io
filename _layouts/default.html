@@ -68,9 +68,10 @@
     <div id="page">
     
       {% if page.url != '/index.html'%}
-      {{ content }}
+        {{ content }}
       {% else %}
-      {% include startseite.html %}
+        {% capture startseite %}{% include startseite.html %}{% endcapture %}
+        {{ startseite | markdownify }}
       {% endif %}
 
       <!-- .footer: the site footer text, links and whatever else -->
