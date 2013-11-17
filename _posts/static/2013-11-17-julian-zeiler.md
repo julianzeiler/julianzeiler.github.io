@@ -7,7 +7,8 @@ permalink: julian/
 
 Herzlich Willkommen auf meiner Homepage.
 
-![Julian Zeiler](/img/JulianZeiler.jpg)
+![JulianZeiler.jpg](/img/JulianZeiler.jpg)
+
 
 Da ich gelernter IT-Systemkaufmann bin findet sich auf diesen Seiten vieles zum Thema Computer, Internet und Informatik.
 
