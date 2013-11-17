@@ -55,17 +55,17 @@ h4 {
 
 a {
   text-decoration: none;
-  color: #5E9040;  
+  color: #620;  
   border-bottom: 1px solid #B8E78B;
 }
 
 
 a:visited {
-  background-color: #F1FFE3;
+  background-color: #840;
 }
 
 a:hover {
-  color: #3C5D29;
+  color: #840;
   background-color: #F1FFE3;
   border-bottom: 1px solid #4A6E35;
 }
