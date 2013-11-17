@@ -67,6 +67,17 @@
     <!-- #page: holds all page content, as well as footer -->
     <div id="page">
     
+      <ul class="breadcrumb">
+        <li><a href="#"><i class="icon-home"></i>Home</a> </li>
+        {% assign crumbs = page.url | split: '/' %}
+        {% assign crumbstotal = crumbs | size %}
+        {% for crumb in crumbs offset:2 %}
+          {% unless crumb == 'index.html' %}
+          <li><span class="divider">&#187;</span> {{ crumb | remove: '.html' }} </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+
       <h2>{{ page.title }}</h2>
     
       {% if page.url != '/index.html'%}
