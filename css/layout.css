@@ -170,6 +170,7 @@ ul.breadcrumb li {
 }
 
 ul.breadcrumb li a {
+  border: 0 none;
   float: left;  
   padding: 0;
 }
