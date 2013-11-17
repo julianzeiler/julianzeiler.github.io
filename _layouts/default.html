@@ -69,7 +69,8 @@
     
       <ul class="breadcrumb">
         <li><a href="/">startseite</a></li>
-        {% assign crumbs = page.url | split: '/' %}
+        {% assign path = page.url | remove_first:'/' %} 
+        {% assign crumbs = path | split: '/' %}
         {% assign crumbstotal = crumbs | size %}
         {% assign crumbscount = crumbstotal | minus: 1 %}
         {% for crumb in crumbs limit:crumbscount offset:1 %}
