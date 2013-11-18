@@ -1,6 +1,6 @@
 auto: true
 server: true
-markdown: maruku
+markdown: redcarpet
 
 prose:
   rooturl: '_posts'
