@@ -86,13 +86,13 @@ ol span {
 }
 
 ul {
-  margin: 10px 30px;
+  margin: 10px 10px;
   padding: 0 30px 0 5px;
   list-style-type: none;
 }
 
 ul li {
-  padding-left: 15px;
+  padding-left: 25px;
   background: url(../img/bg/bullet.gif) no-repeat;
   background-position: 0 3px;
 }
