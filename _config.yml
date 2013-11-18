@@ -2,6 +2,9 @@ auto: true
 server: true
 markdown: redcarpet
 
+redcarpet:
+  extensions: ['attr_list']
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://julianzeiler.github.io/starter'
