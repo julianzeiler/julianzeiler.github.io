@@ -10,7 +10,7 @@ Das Regionale ist heute mehr denn je mit der Welt verbunden, vor allem, seit es 
 
 * [Projekte zum Thema Geschichte](http://www.zeiler.me/detlef/projekte)
 * Heimatgeschichte im Internet: [Heimatgeschichte im Internet](http://www.stuttgart.de/item/show/147730)
-* [Zeitensprung - Der Heiligenberg bei Heidelberg](http://www.youtube.com/watch?v=1yT9xh0X450). Ein Filmprojekt mit Schülern der Heiligenberg-Schule in Handschuhsheim aus dem Jahtre 1985\. (Filmausschnitt: 15 Minuten)
+* [Zeitensprung - Der Heiligenberg bei Heidelberg](http://www.youtube.com/watch?v=1yT9xh0X450). Ein Filmprojekt mit Schülern der Heiligenberg-Schule in Handschuhsheim aus dem Jahtre 1985. (Filmausschnitt: 15 Minuten)
 * [Gespräch mit Dr. Heukemes über das mittelalterliche Heidelberg](http://www.youtube.com/watch?v=UN82c3tZvfk) (Kurzer Ausschnitt aus dem Gespräch)
 Am 23.9,1986, 14:15 Uhr,  in der Unteren Neckarstraße. Ausgrabung eines Patrizier- und eines Handwerkerhauses...
 * [Filmausschnit aus "Heidelberg im Mittelalter" (15 Min)](http://www.youtube.com/watch?v=zMfJp-G_YVA) ( 1986: MOPAED und Schüler des Bunsen-Gymnasiums)
