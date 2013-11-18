@@ -1,13 +1,10 @@
 auto: true
 server: true
-markdown: redcarpet
-
-redcarpet:
-  extensions: ['attr_list']
+markdown: kramdown
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://julianzeiler.github.io/starter'
+  siteurl: 'http://julianzeiler.github.io/'
   media: 'img'
   metadata:
     _posts:
