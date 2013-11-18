@@ -155,6 +155,10 @@ ul.five li a {
    color: #333;
 }
 
+#page img {
+  border: 4px solid #D5C9C2;
+}
+
 ul.breadcrumb {
    list-style: none;
    display: inline;  
