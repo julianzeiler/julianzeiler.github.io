@@ -11,7 +11,7 @@ Das Regionale ist heute mehr denn je mit der Welt verbunden, vor allem, seit es 
 * [Projekte zum Thema Geschichte](http://www.zeiler.me/detlef/projekte)
 * Heimatgeschichte im Internet: [Heimatgeschichte im Internet](http://www.stuttgart.de/item/show/147730)
 * [Zeitensprung - Der Heiligenberg bei Heidelberg](http://www.youtube.com/watch?v=1yT9xh0X450). Ein Filmprojekt mit Schülern der Heiligenberg-Schule in Handschuhsheim aus dem Jahtre 1985\. (Filmausschnitt: 15 Minuten)
-* [Gespräch mit Dr. Heukemes über das mittelalterliche Heidelberg](http://www.youtube.com/watch?v=UN82c3tZvfk)  (Kurzer Ausschnitt aus dem Gespräch)
+* [Gespräch mit Dr. Heukemes über das mittelalterliche Heidelberg](http://www.youtube.com/watch?v=UN82c3tZvfk) (Kurzer Ausschnitt aus dem Gespräch)
 Am 23.9,1986, 14:15 Uhr,  in der Unteren Neckarstraße. Ausgrabung eines Patrizier- und eines Handwerkerhauses...
 * [Filmausschnit aus "Heidelberg im Mittelalter" (15 Min)](http://www.youtube.com/watch?v=zMfJp-G_YVA) ( 1986: MOPAED und Schüler des Bunsen-Gymnasiums)
 * ["Heidelberg im Mittelalter" (Teil II, 14 Minuten)](http://www.youtube.com/watch?v=5SJoxRygGSw)
@@ -19,8 +19,8 @@ Am 23.9,1986, 14:15 Uhr,  in der Unteren Neckarstraße. Ausgrabung eines Patrizi
 * [Bilder aus dem Leben des Heimatforschers Ludwig Merz](http://www.youtube.com/watch?v=07lWbnem_aw) [_](http://youtu.be/nrB9gc_okBI)(1908-2003)
 * [Ketzerverfolgung im 16 Jahrhundert.](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx6ZWlsZXJpdG1lZGllbnxneDoyYzBkN2M5Zjg3NjMwMGY)(Ludwig Merz)
 * [Geschichte der Neckars bei Heidelberg und des Philosophenwegs (Ludwig Merz/ Otto Jäger)](http://www.youtube.com/watch?v=Qs9kj1IMMOc&feature=youtu.be)
-* [Faschismus als Massenbewegung](http://www.zeiler.me/detlef/geschichte/faschismus-als-massenbewegung)Der Faschismus in Europa beginnt in Italien, wo Mussolini 1922 den Marsch auf Rom organisiert und die Macht im Staat erobert hat....
-* [Faschismus im 21\. Jahrhundert?](http://www.zeiler.me/detlef/geschichte/faschismus-als-massenbewegung-2) Wieso sich der Faschismus in Europa nicht wiederholen kann....
+* [Faschismus als Massenbewegung](http://www.zeiler.me/detlef/geschichte/faschismus-als-massenbewegung) Der Faschismus in Europa beginnt in Italien, wo Mussolini 1922 den Marsch auf Rom organisiert und die Macht im Staat erobert hat....
+* [Faschismus im 21. Jahrhundert?](http://www.zeiler.me/detlef/geschichte/faschismus-als-massenbewegung-2) Wieso sich der Faschismus in Europa nicht wiederholen kann....
 * [Nicht-tödliche Waffen (non-lethal-weapons)](http://www.zeiler.me/detlef/geschichte/nicht-tdliche-waffen)
 * [Hooligans - Angry Young Men](http://www.zeiler.me/detlef/geschichte/hooligans---angry-young-men)
 * [Die Kindheit Nicolae Ceausescus - und die Folgen](http://www.zeiler.me/detlef/geschichte/ceausescu)
