@@ -1,6 +1,6 @@
 auto: true
 server: true
-markdown: rdiscount
+markdown: maruku
 
 prose:
   rooturl: '_posts'
