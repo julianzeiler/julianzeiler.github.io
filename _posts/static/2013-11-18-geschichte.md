@@ -16,7 +16,7 @@ Am 23.9,1986, 14:15 Uhr,  in der Unteren Neckarstraße. Ausgrabung eines Patrizi
 * [Filmausschnit aus "Heidelberg im Mittelalter" (15 Min)](http://www.youtube.com/watch?v=zMfJp-G_YVA) ( 1986: MOPAED und Schüler des Bunsen-Gymnasiums)
 * ["Heidelberg im Mittelalter" (Teil II, 14 Minuten)](http://www.youtube.com/watch?v=5SJoxRygGSw)
 * [Berthold von Rohrbach](http://www.zeiler.me/detlef/geschichte/berthold-von-rohrbach)
-* [Bilder aus dem Leben des Heimatforschers Ludwig Merz](http://www.youtube.com/watch?v=07lWbnem_aw)[ ](http://youtu.be/nrB9gc_okBI)(1908-2003)
+* [Bilder aus dem Leben des Heimatforschers Ludwig Merz](http://www.youtube.com/watch?v=07lWbnem_aw) [_](http://youtu.be/nrB9gc_okBI)(1908-2003)
 * [Ketzerverfolgung im 16 Jahrhundert.](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx6ZWlsZXJpdG1lZGllbnxneDoyYzBkN2M5Zjg3NjMwMGY)(Ludwig Merz)
 * [Geschichte der Neckars bei Heidelberg und des Philosophenwegs (Ludwig Merz/ Otto Jäger)](http://www.youtube.com/watch?v=Qs9kj1IMMOc&feature=youtu.be)
 * [Faschismus als Massenbewegung](http://www.zeiler.me/detlef/geschichte/faschismus-als-massenbewegung)Der Faschismus in Europa beginnt in Italien, wo Mussolini 1922 den Marsch auf Rom organisiert und die Macht im Staat erobert hat....
