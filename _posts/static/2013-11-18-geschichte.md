@@ -2,6 +2,7 @@
 layout: default
 published: false
 title: Geschichte
+permalink: detlef/geschichte/
 ---
 
 Was im Zeitalter des Internet sinnvoll ist, vielleicht erst richtig sinnvoll wird, ist der überregionale Austausch von Erfahrungen, die sich aus der Auswertung geschichtlichen Wissens ergeben. Jede Generation erfindet sich neu, blickt auf andere Weise zurück auf die Erfahrungen früherer Generationen, als dies in den Geschichtsbüchern festgehalten ist. Als Einstieg in ein geschichtliches Thema hat sich "oral history", die Befragung von Zeitzeugen, bewährt. Dabei kommt man bei aller "Globalisierung" nicht darum herum, aus der eigenen kulturellen und sozialen Position heraus Stellung zu beziehen.Was ist in der Region in den vorhergehenden Generationen passiert? Weicht dies ab von der nationalen oder internationalen Geschichte? Wie verlässlich sind die Aussagen der Großelterngeneration? 
