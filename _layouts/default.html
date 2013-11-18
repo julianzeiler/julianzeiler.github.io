@@ -92,10 +92,12 @@
       {% assign tmppathelems = tmppath | split: '/' %}
       {% assign toppathelem = tmppathelems | first %}
       {% if toppathelem == 'detlef' %}
+      <div id="subpages">
         <div class="width25 floatLeft"><a href="medien/">Medien</a></div>
         <div class="width25 floatLeft"><a href="deutsch/">Deutsch</a></div>
         <div class="width25 floatLeft"><a href="geschichte/">Geschichte</a></div>
         <div class="width25 floatLeft"><a href="projekte/">Projekte</a></div>
+      </div>
       {% endif %}
 
       <h2>{{ page.title }}</h2>
