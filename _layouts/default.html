@@ -66,15 +66,6 @@
 
     <!-- #page: holds all page content, as well as footer -->
     <div id="page">
-      {% assign tmppath = page.url | remove_first:'/' %}
-      {% assign tmppathelems = tmppath | split: '/' %}
-      {% assign toppathelem = tmppathelems | first %}
-      {% if toppathelem == 'detlef' %}
-        <div class="width25 floatLeft"><a href="medien/">Medien</a></div>
-        <div class="width25 floatLeft"><a href="deutsch/">Deutsch</a></div>
-        <div class="width25 floatLeft"><a href="geschichte/">Geschichte</a></div>
-        <div class="width25 floatLeft"><a href="projekte/">Projekte</a></div>
-      {% endif %}
       {% unless page.url == '/index.html' %}
       <ul class="breadcrumb">
         <li><a href="/">startseite</a></li>
@@ -96,6 +87,16 @@
         {% endfor %}
       </ul>
       {% endunless %}
+
+      {% assign tmppath = page.url | remove_first:'/' %}
+      {% assign tmppathelems = tmppath | split: '/' %}
+      {% assign toppathelem = tmppathelems | first %}
+      {% if toppathelem == 'detlef' %}
+        <div class="width25 floatLeft"><a href="medien/">Medien</a></div>
+        <div class="width25 floatLeft"><a href="deutsch/">Deutsch</a></div>
+        <div class="width25 floatLeft"><a href="geschichte/">Geschichte</a></div>
+        <div class="width25 floatLeft"><a href="projekte/">Projekte</a></div>
+      {% endif %}
 
       <h2>{{ page.title }}</h2>
     
