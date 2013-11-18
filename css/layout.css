@@ -359,8 +359,6 @@ ul.bigLinks li a:hover span.desc {
   border-top: 1px solid #BDEDDE;
 }
 
-
-
-
-
-
+.alignCenter {
+  text-align: center;
+}
