@@ -177,6 +177,7 @@ ul.breadcrumb li a {
 #subpages {
    text-align: center;
    margin-top: 10px;
+   font-size: 1em;
 }
 
 /**************************************************************
@@ -186,6 +187,7 @@ ul.breadcrumb li a {
 .footer {
   padding-top: 3em;
   font-size: 0.85em;
+  text-align: center;
 }
 
 
