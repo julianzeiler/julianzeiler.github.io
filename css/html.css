@@ -95,6 +95,7 @@ ul li {
   padding-left: 25px;
   background: url(../img/bg/bullet.gif) no-repeat;
   background-position: 0 3px;
+  padding-bottom: 8px;
 }
 
 acronym {
