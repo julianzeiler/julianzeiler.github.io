@@ -169,6 +169,7 @@ ul.breadcrumb {
 ul.breadcrumb li {
   display: inline;
   list-style: none;
+  background-image: none;
   margin: 0;
   padding: 0;
 }
